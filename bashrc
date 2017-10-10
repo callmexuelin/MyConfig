@@ -116,5 +116,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
+#add test
+
 #add pycharm
 export PATH="$PATH:/home/xuelin/mytool/pycharm-2016.3.3/bin"
